@@ -1,0 +1,11 @@
+.class button,
+input {
+  padding: 1%;
+  margin-left: 5px;
+  border-radius: 2px;
+  border-style: none;
+  padding: 10px;
+}
+.class button {
+  background-color: gray;
+}
